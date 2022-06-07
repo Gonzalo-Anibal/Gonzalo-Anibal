@@ -5,7 +5,7 @@
 
 ___
 
-<img src="photo.jpg" width="150" height="200" style="float: left; border-radius: 15%; padding:5px;" />
+<img src="(https://media-exp2.licdn.com/dms/image/C4E03AQHlCWpznPSTNQ/profile-displayphoto-shrink_800_800/0/1648467248633?e=1660176000&v=beta&t=gC8kiKfRtjApMcoV9mXyv8NAWaezhJrgVt-HVEvDu2o)](https://media-exp2.licdn.com/dms/image/C4E03AQHlCWpznPSTNQ/profile-displayphoto-shrink_800_800/0/1648467248633?e=1660176000&v=beta&t=gC8kiKfRtjApMcoV9mXyv8NAWaezhJrgVt-HVEvDu2o)" width="150" height="200" style="float: left; border-radius: 15%; padding:5px;" />
 
 I consider myself very adaptable and eager to gain knowledge day after day.
 
