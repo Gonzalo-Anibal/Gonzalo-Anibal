@@ -1,5 +1,5 @@
 
-# Gonzalo Marin Rojas
+# Gonzalo Marín Rojas
 
 `API Rest` / `SQL/NoSQL` / `Git Flow` / `C++` / `Ruby On Rails` / `Go` / `Python` / `NodeJS` / `Ionic` / `Angular`
 
@@ -35,9 +35,9 @@ LinkedIn
 
 ## Scientific Computer Analyst & Graduate in Computer Science
 
-2014 - 2022 / 2014 - 2020
+2014 - 2022 & 2014 - 2020
 
-[**Universidad de Santiago, Chile**](https://usach.cl/)
+[**University of Santiago, Chile**](https://usach.cl/)
 
 Degree work conformed in an individual team (my person) where the solution is built with a backend of 3 APIs Rest in language Go based on Clean Architecture and microservices designed for a scalable future, with a Postgres database, with a Frontend based on Ionic and Angular. Git Flow and Kanban were used.
 
