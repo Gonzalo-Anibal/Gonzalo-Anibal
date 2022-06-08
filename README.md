@@ -5,16 +5,15 @@
 
 <br>
 
-<img src="school-outline.svg" width="20" height="20" /> Scientific Computer Analyst & Graduate in Computer Science
+<img src="https://www.svgrepo.com/show/150735/graduate-cap.svg" width="20" height="20" /> Scientific Computer Analyst & Graduate in Computer Science
 
-<img src="location-outline.svg" width="20" height="20" /> Santiago, Chile
+<img src="https://www.svgrepo.com/show/103407/location.svg" width="20" height="20" /> Santiago, Chile
  
 <img src="https://www.svgrepo.com/show/32285/email.svg" width="20" height="20" /> gonzalo.marin.r@usach.cl
 
-<img src="call-outline.svg" width="20" height="20" /> +56 9 6224 3710
+<img src="https://www.svgrepo.com/show/51247/phone.svg" width="20" height="20" /> +56 9 6224 3710
 
 <img src="https://www.svgrepo.com/show/341847/github.svg" width="20" height="20" /> [Gonzalo-Anibal](https://github.com/Gonzalo-Anibal)
-
 
 <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20" /> [gonzalo-marin-rojas](https://linkedin.com/in/gonzalo-marin-rojas)
 
