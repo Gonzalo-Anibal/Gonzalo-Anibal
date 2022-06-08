@@ -5,9 +5,9 @@
 
 <br>
 
-I consider myself very adaptable and eager to gain knowledge day after day.
+<img src="avatar.jpeg" width="180" height="180" style="float: left; border-radius: 50%; padding:5px;" />
 
-<br>
+I consider myself very adaptable and eager to gain knowledge day after day.
 
 <img src="school-outline.svg" width="20" height="20" />
 Scientific Computer Analyst & Graduate in Computer Science
@@ -15,20 +15,20 @@ Scientific Computer Analyst & Graduate in Computer Science
 <img src="location-outline.svg" width="20" height="20" />
  Santiago, Chile
  
-<img src="https://www.svgrepo.com/show/32285/email.svg" width="20" height="20" />
+<img src="mail-outline.svg" width="20" height="20" />
 gonzalo.marin.r@usach.cl
 
 <img src="call-outline.svg" width="20" height="20" />
 +56 9 6224 3710
 
-<img src="https://www.svgrepo.com/show/341847/github.svg" width="20" height="20" />
+[![Github Gonzalo-Anibal](GitHub-Mark-20px.png)](https://github.com/Gonzalo-Anibal)
+Github
 [Gonzalo-Anibal](https://github.com/Gonzalo-Anibal)
 
-
-<img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20" />
+[![LinkedIn](LI-In-Bug.png)](https://linkedin.com/in/gonzalo-marin-rojas)
+LinkedIn
 [gonzalo-marin-rojas](https://linkedin.com/in/gonzalo-marin-rojas)
 
-<p>
 <br>
 
 # Education
